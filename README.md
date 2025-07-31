@@ -100,9 +100,9 @@ _Add screenshots of the UI here — home, add/edit forms, list view, etc._
 
 ## 📬 Contact
 
-**Author:** Your Name  
-**GitHub:** [@your-username](https://github.com/your-username)  
-**Email:** yourname@example.com
+**Author:** Saeed Alam 
+**GitHub:**  https://github.com/Saeed0919/IBM_project
+**Email:** Saeed Alam
 
 ---
 
